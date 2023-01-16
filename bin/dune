@@ -1,4 +1,4 @@
 (executables
  (names main)
- (libraries core my_lib)
+ (libraries core collate)
  (preprocess (pps ppx_jane)))

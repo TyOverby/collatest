@@ -1,5 +1,5 @@
 (library 
  (name my_lib_test)
- (libraries core my_lib)
+ (libraries core collate)
  (inline_tests)
  (preprocess (pps ppx_jane)))

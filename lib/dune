@@ -1,4 +1,4 @@
 (library 
- (name my_lib)
+ (name collate)
  (libraries core)
  (preprocess (pps ppx_jane)))
